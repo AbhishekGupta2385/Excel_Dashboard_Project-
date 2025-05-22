@@ -33,6 +33,7 @@ Channel Insights: In-store vs Online sales impact
 🔄 Real-Time Analysis – Powered by PivotTables and live data connections
 
 🧰 Tools I Used
+
 Microsoft Excel (PivotTables, Charts, Slicers)
 
 Data Cleaning & Structuring
